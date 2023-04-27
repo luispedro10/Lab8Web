@@ -1,0 +1,13 @@
+#Tablero{
+
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+    width: 700px;
+    height: 300px;
+    margin: auto;
+    padding-bottom: 50px;
+    position: relative;
+    top: -50px;
+    left:0%;
+}
